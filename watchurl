@@ -1,0 +1,8 @@
+# rubygem-haml requires version (>= 3.0.0)
+# check: https://rubygems.org/gems/haml/versions/4.0.6
+# rubygem-shoulda requires version (=3.0.12)
+# this gem has not be updated since 2013
+# check: https://rubygems.org/gems/shoulda
+# rubygem-shoulda-context requires version (>= 3.0)
+# check: https://rubygems.org/gems/shoulda-context/versions/1.2.1
+watchurl=https://rubygems.org/gems/rails/versions/([\d\.]*)
