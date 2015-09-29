@@ -4,7 +4,7 @@
 #
 Name     : rubygem-rails
 Version  : 4.2.3
-Release  : 6
+Release  : 7
 URL      : https://rubygems.org/downloads/rails-4.2.3.gem
 Source0  : https://rubygems.org/downloads/rails-4.2.3.gem
 Summary  : No detailed summary available
